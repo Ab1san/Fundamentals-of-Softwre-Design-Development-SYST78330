@@ -5,7 +5,7 @@
 package shapelist;
 
 /**
- *
+ * This class extends from SmallCircle
  * @author Abisan
  */
 public class PartTimeStudent extends SmallCircle {
